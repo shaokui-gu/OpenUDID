@@ -1,0 +1,5 @@
+module OpenUDID {
+     umbrella header "OpenUDID/OpenUDID.h"
+     export *
+     module * { export * }
+}
